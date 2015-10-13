@@ -1,4 +1,5 @@
-import foo.foo2
+
+import foo2
 
 def test():
-    return foo.foo2.test_details()
+   return foo2.test_details()

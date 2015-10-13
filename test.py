@@ -1,5 +1,4 @@
+from __future__ import print_function
 import foo
 
-#help(foo)
-
-foo.test()
+print(foo.test())

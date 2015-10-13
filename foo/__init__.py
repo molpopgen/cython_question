@@ -1,1 +1,1 @@
-from foo.foo import *
+from foo import *
